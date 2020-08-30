@@ -109,6 +109,11 @@ body{
   height: 300px !important;
 }
 
+.head-image{
+  height: 305px !important;
+  width: 100%;
+}
+
 .meta-vidio-desc{
   padding: 0px 20px 15px;
 }
@@ -205,4 +210,40 @@ body{
 
 .hr-style{
   border-bottom: solid #f3e4cf;
+}
+
+.documents-style-head{
+  background: #f3e4cf;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.people-style-head , .documents-style-head{
+  margin-bottom: 20px;
+}
+
+.people-style-head img, .documents-style-head img{
+  width: 100%;
+  height: 142px;
+  z-index: 0;
+  object-fit: cover;
+}
+
+.meta-people-desc , .meta-documents-desc{
+  padding: 0px 20px 15px;
+  background: #f3e4cf;
+}
+
+.meta-people-desc p, .meta-documents-desc p{
+  font-weight: 500;
+  margin: 0px;
+  color: #953e46;
+  font-size: 12px;
+}
+
+.meta-documents-desc label{
+  font-size: 20px;
+  font-weight: 500;
+  color: #953e46;
+  margin: 0px;
 }
