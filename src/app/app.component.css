@@ -1,0 +1,208 @@
+body{
+  background: #953e46;
+}
+
+.head-section{
+  margin: 30px 0px;
+}
+
+.brand-name h3{
+  color: #f3e4cf;
+  font-weight: 400;
+}
+
+.brand-name span{
+  color: #f3e4cf;
+  font-weight: 100;
+}
+
+.form-style{
+  border: 1px white;
+  border-radius: 0px;
+  background: #f3e4cf;
+}
+
+::placeholder {
+  color: #953e46;
+  opacity: 1; /* Firefox */
+}
+
+.btn-outline-white {
+    color: #953e46;
+    background-color: #f3e4cf;
+    border-color: #f3e4cf;
+    border-radius: 0px;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: none; 
+}
+
+.img-profile img{
+  width: 39px;
+  float: left;
+  margin-right: 10px;
+}
+
+.name-style{
+  color: #f3e4cf;
+  margin: -4px;
+  font-weight: 500;
+}
+
+.lastnm-style{
+  font-size: 14px;
+  color: #f3e4cf;
+  font-weight: 100;
+}
+
+.meta-name{
+  position: relative;
+}
+
+.inbox-value{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+  border-radius: 100%;
+  background: #f3e4cf;
+  padding: 2px;
+  text-align: center;
+  height: 23px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #953e46;
+}
+
+.bradscrum-style{
+  padding-top: 10px;
+  padding-bottom: 5px;
+  border-top: 1px solid #f3e4cf;
+  border-bottom: 1px solid #f3e4cf;
+}
+
+.vidio-style-head{
+  background: #f3e4cf;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.bradscrum-style label , .bradscrum-style span{
+  font-size: 22px;
+  font-weight: 300;
+  color: #f3e4cf;
+  margin-right: 15px;
+}
+
+
+.vidio-style-head iframe{
+  width: 100%;
+  height: 136px;
+}
+
+.head-frame{
+  height: 300px !important;
+}
+
+.meta-vidio-desc{
+  padding: 0px 20px 15px;
+}
+
+.meta-vidio-desc label{
+  font-size: 20px;
+  font-weight: 500;
+  color: #953e46;
+  margin: 0px;
+}
+
+.meta-vidio-desc p{
+  font-weight: 500;
+  margin: 0px;
+  color: #953e46;
+  font-size: 12px;
+}
+
+.viewersvidio{
+  position: absolute;
+  bottom: 15px;
+  right: 28px;
+  font-weight: 500;
+}
+
+.height-head-vidio{
+  height: 280px;
+}
+
+.upload-vidio img{
+  width: 80%;
+  margin-left: 30px;
+  margin-top: 3px;
+}
+
+.upload-vidio{
+  width: 100%;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  border: solid 2px #f3e4cf;
+  padding: 53px 0px;
+  cursor: pointer;
+}
+
+.upload-vidio label{
+  font-size: 16px;
+  font-weight: 500;
+  color: #f3e4cf;
+  margin: 0px;
+}
+
+.upload-vidio p{
+  color: #f3e4cf;
+}
+
+.text-left{
+  text-align: left;
+}
+
+.item-activity{
+  margin-bottom: 17px;
+}
+
+.item-activity img{
+  float: left;
+  width: 100%;
+}
+
+.with-undrln{
+  border-bottom: solid #f3e4cf;
+  margin-bottom: 20px
+}
+
+.activity-desc{
+  color: #f3e4cf;
+}
+
+.activity-desc label{
+  font-weight: 500;
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+
+.activity-desc span , .activity-desc  p{
+  font-size: 12px;
+  margin: 0px;
+}
+
+.activity-desc i{
+  margin-right: 10px;
+}
+
+
+.hr-style{
+  border-bottom: solid #f3e4cf;
+}
