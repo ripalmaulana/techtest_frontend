@@ -1,0 +1,47 @@
+@media (min-width: 1400px){
+
+}
+
+@media (min-width: 1200px){
+
+}
+
+@media (max-width: 1024px){
+	.upload-vidio{
+	    width: 100%;
+	    text-align: center;
+	    margin-top: auto;
+	    margin-bottom: auto;
+	    border: solid 2px #f3e4cf;
+	    padding: 41px 0px;
+	    cursor: pointer;
+	}
+	.meta-title p {
+	    text-align: right;
+	    margin: 0px;
+	    padding: 3px 0px;
+	    color: #f3e4cf;
+	    text-decoration: none;
+	}
+	.meta-title p {
+	    text-align: right;
+	    margin: 0px;
+	    padding: 10px 0px;
+	    color: #f3e4cf;
+	    text-decoration: none;
+	    font-size: 10px;
+	}
+}
+
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 767px){
+	
+}
+
+@media only screen and (max-width: 500px) {
+	
+}
