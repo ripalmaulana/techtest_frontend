@@ -392,8 +392,16 @@ body{
   text-align: left;
 }
 
+.modal-header{
+  background: #953e46;
+  color: white;
+}
 
-
+.btn-primaryv2 {
+    color: #fff;
+    background-color: #953e46;
+    border-color: #953e46;
+}
 
 
 
